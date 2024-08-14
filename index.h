@@ -1,16 +1,16 @@
 <DOCTYPE html>
 <html>
     <head>
-          <title>My First Webpage </title>
-
-          <meta charset='UTF-8'>
-          <meta name='author' content='My Name'>
-          <meta name='akeywords' content='HTML, CSS, Javascript'>
-          <meta name='revisedr' content='\28-06-2020'>
-
-          <link rel='icon' href='icon.png' type='image/gif'>
+        <title>My First Webpage </title>
+    
+        <meta charset="UTF-8">
+        <meta name="author" content="My Name">
+        <meta name="keywords" content="HTML, CSS, Javascript">
+        <meta name="revised" content="28-06-2020">
+    
+        <link rel="icon" href="icon.png" type="image/gif">
     </head>
     <body>
-          <!-- Place content here -->
+        <!-- Place content here -->
     </body>
-</html
+</html>
